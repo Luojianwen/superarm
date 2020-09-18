@@ -1,0 +1,2 @@
+set(interbotix_sdk_MESSAGE_FILES "/home/star/superarm_ws/src/interbotix_ros_arms/interbotix_sdk/msg/JointCommands.msg;/home/star/superarm_ws/src/interbotix_ros_arms/interbotix_sdk/msg/SingleCommand.msg")
+set(interbotix_sdk_SERVICE_FILES "/home/star/superarm_ws/src/interbotix_ros_arms/interbotix_sdk/srv/FirmwareGains.srv;/home/star/superarm_ws/src/interbotix_ros_arms/interbotix_sdk/srv/OperatingModes.srv;/home/star/superarm_ws/src/interbotix_ros_arms/interbotix_sdk/srv/RegisterValues.srv;/home/star/superarm_ws/src/interbotix_ros_arms/interbotix_sdk/srv/RobotInfo.srv")
